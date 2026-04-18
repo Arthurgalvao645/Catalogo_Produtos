@@ -1,15 +1,15 @@
 {
-    "name": "douglasabnovato/catalogoprodutos",
+    "name": "Arthurgalvao645/Catalogo_Produtos",
     "description": "Meu Catálogo",
     "autoload": {
         "psr-4": {
-            "Douglasabnovato\\Catalogoprodutos\\": "src/"
+            "Arthurgalvao645/Catalogo_Produtos\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "douglasabnovato",
-            "email": "douglasabnovato@gmail.com"
+            "name": "Arthur_Galvão",
+            "email": "arthurgsprogramador@gmail.com"
         }
     ],
     "require": {}
