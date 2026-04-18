@@ -14,8 +14,6 @@ Este projeto foi desenvolvido como resposta a um desafio técnico Full Stack com
 * Qualidade de código.
 * Capacidade analítica (SQL e arquitetura).
 
-> **Premissa:** Mais do que implementar funcionalidades, o objetivo foi estruturar decisões técnicas de forma consciente e justificável.
-
 ---
 
 ## 🏗️ Arquitetura Geral
