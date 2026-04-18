@@ -61,21 +61,6 @@ cp .env.example .env
 npm run dev
 ```
 
-### 📁 Plano de Ação (Documentação Técnica)
-Esta seção detalha o planejamento e a execução de cada etapa do desafio, baseando-se na estrutura de arquivos do repositório.
-
-* [1. Oportunidade](./plano-de-acao/1-oportunidade.md)
-* [2. Teste Técnico](./plano-de-acao/2-teste-tecnico.md)
-* [3. Análise Estratégica](./plano-de-acao/3-analise-estrategica.md)
-* [4. Análise Prática](./plano-de-acao/4-analise-pratica.md)
-* [5. Questões 1 a 4](./plano-de-acao/5-questao-1-a-4.md)
-* [6. Questões 5 a 8](./plano-de-acao/6-questao-5-a-8.md)
-* [7. Questões 9, 11 e 13](./plano-de-acao/7-questao-9-11-13.md)
-* [8. Questões 14 e 15 (SQL)](./plano-de-acao/8-questao-14-15.md)
-* [9. Questões 10 e 12 (CRUD e Checkout)](./plano-de-acao/9-questao-10-12.md)
-
----
-
 ### 🔐 Segurança Aplicada
 Foram consideradas as seguintes práticas:
 1.  **Autenticação obrigatória** para operações de modificação (create, update, delete).
