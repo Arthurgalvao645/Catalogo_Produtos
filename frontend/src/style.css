@@ -1,0 +1,20 @@
+/* frontend/src/style.css */
+:root {
+  --primary-blue: #3483fa;
+  --bg-gray: #f5f5f5;
+  --text-dark: #333333;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-gray) !important;
+  color: var(--text-dark);
+  font-family: "Roboto", sans-serif;
+}
+
+/* Garante que o Header Amarelo ocupe 100% sem margens */
+#app {
+  width: 100%;
+  overflow-x: hidden;
+}
