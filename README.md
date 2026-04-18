@@ -1,21 +1,5 @@
 # 💼 Catálogo de Produtos
 
-## 🎓 Análise e Preparação para o Desafio
-
-Este projeto foi desenvolvido como resposta a um desafio técnico Full Stack com foco em organização arquitetural, boas práticas de desenvolvimento e performance.
-
-### 📌 Objetivo
-Este projeto foi desenvolvido como resposta a um desafio técnico Full Stack com foco em:
-* Organização arquitetural.
-* Boas práticas de desenvolvimento.
-* Clareza na separação de responsabilidades.
-* Performance e escalabilidade.
-* Segurança.
-* Qualidade de código.
-* Capacidade analítica (SQL e arquitetura).
-
----
-
 ## 🏗️ Arquitetura Geral
 
 ### Backend
