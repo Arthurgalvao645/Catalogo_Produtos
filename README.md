@@ -1,7 +1,5 @@
 # 💼 Catálogo de Produtos
 
-**Que oportunidade massa esse projeto**
-
 ## 🎓 Análise e Preparação para o Desafio
 
 Este projeto foi desenvolvido como resposta a um desafio técnico Full Stack com foco em organização arquitetural, boas práticas de desenvolvimento e performance.
