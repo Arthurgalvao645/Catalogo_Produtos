@@ -18,32 +18,6 @@ Este projeto foi desenvolvido como resposta a um desafio técnico Full Stack com
 
 ---
 
-## 🗺️ Índice
-- [💼 Catálogo de Produtos](#-catálogo-de-produtos)
-  - [🎓 Análise e Preparação para o Desafio](#-análise-e-preparação-para-o-desafio)
-    - [📌 Objetivo](#-objetivo)
-  - [🗺️ Índice](#️-índice)
-  - [🏗️ Arquitetura Geral](#️-arquitetura-geral)
-    - [Backend](#backend)
-    - [Frontend](#frontend)
-  - [🛠️ Como Rodar o Projeto](#️-como-rodar-o-projeto)
-    - [Pré-requisitos](#pré-requisitos)
-    - [1. Configuração do Backend](#1-configuração-do-backend)
-    - [2. Configuração do Frontend](#2-configuração-do-frontend)
-    - [📁 Plano de Ação (Documentação Técnica)](#-plano-de-ação-documentação-técnica)
-    - [🔐 Segurança Aplicada](#-segurança-aplicada)
-    - [⚡ Performance e Escalabilidade](#-performance-e-escalabilidade)
-    - [📦 Funcionalidades Implementadas](#-funcionalidades-implementadas)
-      - [1️⃣ CRUD de Produtos](#1️⃣-crud-de-produtos)
-      - [2️⃣ Página de Finalização de Compra (Checkout)](#2️⃣-página-de-finalização-de-compra-checkout)
-    - [🗄️ Análises SQL (Eloquent)](#️-análises-sql-eloquent)
-    - [🧩 Análise Crítica de Código](#-análise-crítica-de-código)
-    - [🎯 Decisões Arquiteturais e Justificativa da Stack](#-decisões-arquiteturais-e-justificativa-da-stack)
-    - [🚀 Conclusão e Melhorias Futuras](#-conclusão-e-melhorias-futuras)
-      - [Melhorias Futuras](#melhorias-futuras)
-
----
-
 ## 🏗️ Arquitetura Geral
 
 ### Backend
