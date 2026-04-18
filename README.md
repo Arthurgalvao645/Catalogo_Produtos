@@ -60,6 +60,7 @@ cp .env.example .env
 # Inicie o servidor de desenvolvimento
 npm run dev
 ```
+---
 
 ### 🔐 Segurança Aplicada
 Foram consideradas as seguintes práticas:
