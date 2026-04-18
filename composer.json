@@ -1,0 +1,16 @@
+{
+    "name": "douglasabnovato/catalogoprodutos",
+    "description": "Meu Catálogo",
+    "autoload": {
+        "psr-4": {
+            "Douglasabnovato\\Catalogoprodutos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "douglasabnovato",
+            "email": "douglasabnovato@gmail.com"
+        }
+    ],
+    "require": {}
+}
